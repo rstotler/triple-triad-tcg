@@ -1,3 +1,23 @@
+# Triple Triad Trading Card Game RPG
 Requires Python 3.9 & Pygame.
-
-![alt text](https://images2.imgbox.com/df/76/foTb2pmw_o.gif)
+  
+- Alpha channel blending for card effects
+- Opponents with artificial intelligence
+- 2 and 3 way battles
+- Deck editor
+  
+## Screenshots
+In town example  
+![alt text](https://github.com/rstotler/gifs/blob/main/TT-Town.gif)  
+  
+Dealing cards  
+![alt text](https://github.com/rstotler/gifs/blob/main/TT-Deal.gif)  
+  
+Basic battle example  
+![alt text](https://github.com/rstotler/gifs/blob/main/TT-Battle.gif)  
+  
+Combo example  
+![alt text](https://github.com/rstotler/gifs/blob/main/TT-Combo.gif)  
+  
+Deck editor  
+![alt text](https://github.com/rstotler/gifs/blob/main/TT-Deck.gif)  
