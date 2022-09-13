@@ -1,8 +1,8 @@
 # Triple Triad Trading Card Game RPG
 Requires Python 3.9 & Pygame.
   
-- Alpha channel blending for card effects
 - Opponents with artificial intelligence
+- Alpha channel blending used in card effects
 - 2 and 3 way battles
 - Deck editor
   
